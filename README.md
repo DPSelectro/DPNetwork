@@ -13,9 +13,13 @@ Run autoencoder file with a specified SCALE and SCALE-STRING to get an autoencod
 
 # UNSW Dataset
 
+## Confustion Matrix for UNSW
+<img src="https://github.com/hanshanley/DPNetwork/blob/master/Figures/Confusion-MatrixUNSW2-AutoEncoderGaussianImmed0point7WITHOUT-AUTOENCODER-1.png"width="480">
+
+## TSNE plot of UNSW for malware categories
 <img src= "https://github.com/hanshanley/DPNetwork/blob/master/Figures/UNSW-HTTP-all-TSNE3D-1.png" width="480">
 
 
-#@ Example Adversarial Example for the UNSW dataset
+## Example Adversarial Example for the UNSW dataset
 <img src= "https://github.com/hanshanley/DPNetwork/blob/master/Figures/UNSW-adv-examplegaussian-0point3-1.png" width="480">
 

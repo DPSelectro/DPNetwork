@@ -8,4 +8,7 @@ to retreive files in correct machine learning format
 bin/joy bidir=1 ppi=1 http=1 tls=1 dns=1 output=cridex.json cridex.pcap
 ```
 
-Run autoencoder file with a specified SCALE and SCALE-STRING to get an autoencoder to prepend against model that is the used to learn malicious from benign flows 
+Run autoencoder file with a specified SCALE and SCALE-STRING to get an autoencoder to prepend against model that is the used to learn malicious from benign flows.
+
+<img src= "https://github.com/hanshanley/DPNetwork/blob/master/Figures/UNSW-adv-examplegaussian-0point3-1.png" width="480">
+

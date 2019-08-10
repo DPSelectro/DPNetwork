@@ -15,6 +15,17 @@ bin/joy bidir=1 ppi=1 http=1 tls=1 dns=1 output=cridex.json cridex.pcap
 
 Run autoencoder file with a specified SCALE and SCALE-STRING to get an autoencoder to prepend against model that is the used to learn malicious from benign flows.
 
+# USTC Dataset 
+
+## Confustion Matrix for UNSW
+<img src="https://github.com/hanshanley/DPNetwork/blob/master/Figures/Confusion-MatrixUSTC2-AutoEncoderGaussianImmedPoisson0point1WITHOUT-AUTOENCODER-1.png" width="480">
+
+## TSNE plot of USTC Malicious vs Benign
+<img src="https://github.com/hanshanley/DPNetwork/blob/master/Figures/USTC-all-TSNE-1.png" width="480">
+
+## Example Adversarial Example for the USTC dataset
+<img src="https://github.com/hanshanley/DPNetwork/blob/master/Figures/BASIC-USTC2-adv-example0point1-1.png" width="480">
+
 # UNSW Dataset
 
 ## Confustion Matrix for UNSW
@@ -22,7 +33,6 @@ Run autoencoder file with a specified SCALE and SCALE-STRING to get an autoencod
 
 ## TSNE plot of UNSW for malware categories
 <img src= "https://github.com/hanshanley/DPNetwork/blob/master/Figures/UNSW-HTTP-all-TSNE3D-1.png" width="480">
-
 
 ## Example Adversarial Example for the UNSW dataset
 <img src= "https://github.com/hanshanley/DPNetwork/blob/master/Figures/UNSW-adv-examplegaussian-0point3-1.png" width="480">
